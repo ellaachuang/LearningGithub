@@ -10,6 +10,5 @@ class MainActivity : AppCompatActivity() {
 
         val x = 10
         val word = "cramulent"
-        val word = "fun"
     }
 }
